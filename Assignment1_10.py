@@ -1,4 +1,4 @@
-print("==========Program to display Hello============")
+print("==========Program to check count of char============")
 
 def countchar(word):
     i = 0
